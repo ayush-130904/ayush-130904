@@ -8,6 +8,7 @@ I am a passionate learner currently diving deep into the world of Data Science a
 ## 🛠 My Technical Toolkit
 - **Languages:** Python (Intermediate)
 - **Data Libraries:** NumPy, Pandas
+- **Tools:** Git & Github
 - **Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Mathematical Computing
 - **Languages Spoken:** Bilingual (English, Hindi & Marathi)
 
